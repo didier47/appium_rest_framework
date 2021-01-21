@@ -24,6 +24,8 @@ SECRET_KEY = 'c2qh-ciz&=839$8m9nz=lf0f#9rkv_0-9#v=17+rj78ag&1)-o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+SERVER_PORT = 8000
+
 ALLOWED_HOSTS = []
 
 # Application definition
